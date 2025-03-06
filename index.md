@@ -8,7 +8,7 @@
 
 
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
-
-This change is to set six different headers.
+This change is to set six different headers and to add an image of a yaktocat.
